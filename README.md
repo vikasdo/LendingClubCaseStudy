@@ -58,9 +58,8 @@ Give credit here.
 - This project was based on [this tutorial](https://www.example.com).
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
+## Contributors
+Donthula Vikas and Gunupudi Lakshman
 
 <!-- Optional -->
 <!-- ## License -->
