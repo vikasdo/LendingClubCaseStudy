@@ -28,17 +28,15 @@ Step 5: Results/Conclusion
 
 ## Conclusions
 
-
-1. We can say that people with high past record of bankrutcies mostly likely to default
-2. There is a high correlation in loan grade percentage for each default ratre 
-3. There is a correlation between revolving Utilisation rate vs Loan grade Revolving Utilization and Grade: As the loan grade increases from A to G, the median revolving utilization tends to increase. This suggests that borrowers with (higher grades F,G etc) tend to have higher levels of credit card debt relative to their credit limits.
-2. There is a postive  Correlation between Loan amount and Annual income.
-3. This shows that most of defaulters are taking smaller loan amounts in range (5000-16000)  and max value is 35000 
-4.  There is a high frequency of values at 0 years and 10 years, suggesting that many applicants either have no employment history or have been employed for 10 or more years.
-5. Most of defaultors were in low range of annual inc ,this is Negative Correlation 
-so this is a strong indicator were 50% of people income is below 60000 
-6. From this we can Categorize that as Category class  of total Accounts is increasing the default rate is increasing so the biininghere helped us to bin the customers based on the number of accounts
-
+Key High-Risk Indicators:
+Factors such as loan grades, loan amounts, low annual income, loan term (in months), and revolving balance utilization play crucial roles in determining the likelihood of default.
+Insights for Prevention:
+Impact of Loan Grade: There is a noticeable trend where lower loan grades (from A to G) correlate with higher default rates. Adjusting the terms for these lower grades may help reduce associated risks.
+Revolving Utilization Rate: Higher revolving utilization rates are commonly found in lower grades, such as F and G. This highlights the need for more thorough credit evaluations for individuals with significant credit card debt ratios.
+Correlation Between Loan Amount and Income: While higher income often permits larger loans, defaults are frequently observed among those with lower income levels. Confirming income can improve the precision of loan approvals and assessments of repayment ability.
+Bankruptcy History: A previous bankruptcy is significantly associated with increased default risks, making it vital to track bankruptcy records for effective risk assessment.
+Additionally, there is a relationship between low annual income and elevated default rates, underscoring the importance of setting income thresholds during loan evaluations.
+Lastly, an increase in the total number of accounts is correlated with a higher likelihood of default, stressing the necessity for tailored risk assessments.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -52,10 +50,7 @@ seaborn library
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on few of the EDA techniques researched online.
 
 
 ## Contributors
